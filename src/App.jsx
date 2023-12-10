@@ -41,7 +41,7 @@ function App() {
 
       </div>
       {/* <img style={{width:'200px', height:'300px'}} src={images[currentImageIndex]} alt={`Image ${currentImageIndex + 1}`} /> */}
-      <img style={{ width: '1000px', height: '500px', marginTop: '100px', marginLeft: '250px', border: '1px solid', borderRadius:'20px', boxShadow:'20px 20px 20px 0 lightgreen' }} src={images[currentImageIndex]} alt="" />
+      <img style={{ width: '1000px', height: '500px', marginTop: '50px', marginLeft: '250px', border: '1px solid', borderRadius:'20px', boxShadow:'20px 20px 20px 0 lightgreen' }} src={images[currentImageIndex]} alt="" />
 
     </div>
   )
